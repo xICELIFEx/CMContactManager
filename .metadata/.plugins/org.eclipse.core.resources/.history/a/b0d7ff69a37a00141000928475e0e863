@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Contacts manager</string>
-    <string name="hello_world">Hello world!</string>
-	<string name="activity_main_add_button_title">new contact</string>
-    <string name="save_button_title">save</string>
-	
-</resources>
